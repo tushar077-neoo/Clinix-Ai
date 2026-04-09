@@ -28,7 +28,7 @@ Clinix AI is an AI-powered health assistant that predicts possible diseases usin
 ## 📦 Setup
 
 ```bash id="r8b0wv"
-git clone https://github.com/your-username/clinix-ai.git
+git clone https://github.com/tushar077-neoo/Clinix-Ai.git
 cd clinix-ai
 pip install -r requirements.txt
 streamlit run app.py
